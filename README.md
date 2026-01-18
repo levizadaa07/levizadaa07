@@ -1,16 +1,30 @@
-## Hi there 👋
-
-<!--
-**levizadaa07/levizadaa07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h1 align="center">Hi 👋, I'm Anirudh Rai</h1>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&amp;style=for-the-badge" alt=""></a> </p>
+<p>🌱 I’m currently learning <strong>WEB Development Full-Stack</strong>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"></p>
+<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"> </a> </p><br>
+<hr width="36%">
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="anii693"></p>
+<div class="google-auto-placed" style="width: 100%; height: auto; clear: none; text-align: center;"><ins data-ad-format="auto" class="adsbygoogle adsbygoogle-noablate" data-ad-client="ca-pub-5867915342436534" data-adsbygoogle-status="done" style="display: block; margin: 10px auto 24px; background-color: transparent; height: 280px;" data-ad-status="filled"><div id="aswift_2_host" style="border: none; height: 280px; width: 1150px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: visible;"><iframe id="aswift_2" name="aswift_2" style="left:0;position:absolute;top:0;border:0;width:1150px;height:280px;min-height:auto;max-height:none;min-width:auto;max-width:none;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="1150" height="280" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5867915342436534&amp;output=html&amp;h=280&amp;adk=1296727556&amp;adf=1619662058&amp;pi=t.aa~a.4260889089~rp.1&amp;w=1150&amp;fwrn=4&amp;fwrnh=100&amp;lmt=1768745335&amp;rafmt=1&amp;to=qs&amp;pwprc=3343622871&amp;format=1150x280&amp;url=https%3A%2F%2Fgithubprofile.com%2Ftemplates%2FANii693&amp;fwr=0&amp;pra=3&amp;rpe=1&amp;resp_fmts=3&amp;aieuf=1&amp;aicrs=1&amp;fa=40&amp;uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTQzLjAuNzQ5OS4xOTMiLG51bGwsMCxudWxsLCI2NCIsW1siR29vZ2xlIENocm9tZSIsIjE0My4wLjc0OTkuMTkzIl0sWyJDaHJvbWl1bSIsIjE0My4wLjc0OTkuMTkzIl0sWyJOb3QgQShCcmFuZCIsIjI0LjAuMC4wIl1dLDBd&amp;abgtt=6&amp;dt=1768745342559&amp;bpp=3&amp;bdt=1625&amp;idt=-M&amp;shv=r20260115&amp;mjsv=m202601130101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3D763685da380b8832%3AT%3D1768745288%3ART%3D1768745288%3AS%3DALNI_MbBEWe5nh9oW1AfAnhtuVNHULf1Pw&amp;gpic=UID%3D000010429b73b239%3AT%3D1768745288%3ART%3D1768745288%3AS%3DALNI_MZ2mi6WryswCJrAp4lFymtTQN6H5Q&amp;eo_id_str=ID%3D5518105fe6523c6c%3AT%3D1768745288%3ART%3D1768745288%3AS%3DAA-AfjYIyMpb6lqjHGJSyXGaVkVq&amp;prev_fmts=0x0%2C1200x280&amp;nras=3&amp;correlator=4137703770586&amp;frm=20&amp;pv=1&amp;u_tz=-180&amp;u_his=2&amp;u_h=768&amp;u_w=1360&amp;u_ah=738&amp;u_aw=1360&amp;u_cd=24&amp;u_sd=1&amp;dmc=8&amp;adx=98&amp;ady=1420&amp;biw=1345&amp;bih=617&amp;scr_x=0&amp;scr_y=533&amp;eid=95376582%2C95372614&amp;oid=2&amp;psts=AOrYGsk_7ZOILwSqdFYlnGoIInXaiHy_ckrBBjzihFVzDkoV_MTUnQLLDC-lo_M0O_oe5UTvvKcWjo0DPbsu1Jnyvwkx-NanhK-8tMS01Dznmlkp&amp;pvsid=2319953689381087&amp;tmod=68865299&amp;uas=1&amp;nvt=1&amp;ref=https%3A%2F%2Fgithubprofile.com%2Ftemplates%3Futm_source%3Dchatgpt.com&amp;fc=1920&amp;brdim=0%2C0%2C0%2C0%2C1360%2C0%2C1360%2C738%2C1360%2C617&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=128&amp;bc=31&amp;bz=1&amp;ifi=3&amp;uci=a!3&amp;btvi=1&amp;fsb=1&amp;dtd=13" data-google-container-id="a!3" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CK-DuOyhlZIDFQuzlQIdiRQIvA" data-load-complete="true"></iframe></div></ins></div><p><br><br><br><br><br><br><br></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&amp;show_icons=true&amp;theme=dark&amp;locale=en" alt="anii693"></p>
+<br><br><br><br><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&amp;theme=dark" alt="anii693"></p>
+<br><br><br><br><br><br><br><br><br><br>
+<hr width="60%">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40"></a>
+<a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40"></a>
+<a href="https://kaggle.com/anirudhrai693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhrai693" height="30" width="40"></a>
+<a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40"></a>
+</p>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="anii693"> </p>
+<hr>
+<p><a href="https://github.com/ANii693">ANii693</a></p>
+<p>Last Edited on: 28/02/2023</p> 
