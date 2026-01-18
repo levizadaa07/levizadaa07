@@ -17,7 +17,7 @@ Currently learning and building.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-### Machine
+### Machine:
 <div>
   <img src="https://img.shields.io/badge/WINDOWS-000000?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/INTEL-Core%20i3--2100-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
@@ -32,8 +32,3 @@ Currently learning and building.
   <img src="https://img.shields.io/badge/epic%20games%20-%23000000.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
 </div>
 <br>
-
-<details>
-  <summary>Languages</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levizadaa07&layout=compact&bg_color=000000&text_color=ffffff">
-</details>
