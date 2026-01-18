@@ -1,14 +1,6 @@
-# Levi S.
-
-Just do it
-
----
-
-### Stack
-- Lua
-
----
-
-### Contato
-- Instagram: @levizadaa07  
-- Email: levisousaprado@gmail.com
+const user = {
+  name: "Levi S.",
+  role: "Student",
+  stack: ["React", "Next.js", "Tailwind", "Node.js", ".lua"],
+  focus: "Knowledge"
+}
