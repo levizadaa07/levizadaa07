@@ -3,15 +3,7 @@
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/levizadaa07/)
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-- :school: I'm currently studing in ... Dr. Ambedker Institute of Technology for Handicapped, Kanpur, India
-- 🔭 I’m currently working on ... Not working
-- 🌱 I’m currently learning ... Vuejs and Python
-- 👯 I’m looking to collaborate on ... Any of project
-- 🤔 I’m looking for help with ... Vuejs 
-- 💬 Ask me about ... What ever.... :laughing:
-- 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Play PUBG when get bored
+Currently learning and building.
 <br/>
 
 ### Languages & Tools
@@ -24,13 +16,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-### Machine:
+### Machine
 <div>
-  <img src="https://img.shields.io/badge/OS-Windows-000000?style=flat&logo=windows&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/CPU-Intel%20Core%20i3--2100-000000?style=flat&logo=intel&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/RAM-8GB%20DDR3-000000?style=flat">
-  <img src="https://img.shields.io/badge/GPU-Intel%20HD%20Graphics-000000?style=flat&logo=intel&logoColor=ffffff">
-  <img src="https://img.shields.io/badge/Storage-112GB-000000?style=flat">
+  <img src="https://img.shields.io/badge/WINDOWS-000000?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/INTEL-Core%20i3--2100-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB%20DDR3-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/INTEL-HD%20Graphics-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/STORAGE-112GB-333333?style=for-the-badge" />
 </div>
 
 ### Gaming:
